@@ -1,0 +1,24 @@
+body {
+
+  font-family: emoji;
+  font-size: revert;
+  line-height: 1.42857143;
+  color: blue;
+  background-color: darkgray;
+  }
+ 
+ .tag {
+     font-family: inherit; 
+     font-size: 1rem;
+    }  
+
+.jumbotron {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: navajowhite;
+  background-color: gold;
+  background-size: 100% 100%;
+  text-align: center;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/32/EscherichiaColi_NIAID.jpg);
+  }
